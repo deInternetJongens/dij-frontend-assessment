@@ -10,7 +10,6 @@ This assessment is about creating a client for the IMD Movie Database (IMDB)
 
 ## Technical requirements
 
-- A file with your design
 - It should be built in JavaScript (or TypeScript), be it a Single Page Application or a server-side-rendered app.
     - You can pick any tools or frameworks you're familiar with.
 - There should be unit tests for your code.
